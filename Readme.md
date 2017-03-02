@@ -3,7 +3,7 @@
 
 Edumojo is a educational application designed to automate the study process of the students and provide them flexibility to the work in their way.
 
-![GitHub Classroom screenshot](https://github.com/yash19970/edumojo/assets/images/bgone.jpg)
+![GitHub Classroom screenshot](https://github.com/yash19970/Edumojo/blob/master/assets/images/bgone.jpg)
 
 ## How it works
 
